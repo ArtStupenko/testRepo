@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mkV/StL74B5k/oHKkU9qisgOMU3Z2fnkViPsqxGvgr30XGZL/EEkJ4981QvE4WSJZXE1ux7xIuaAhegkD+Vluw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artst\\Documents\\GitHub\\testRepo\\testRepo\\testRepo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artst\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
